@@ -11,7 +11,7 @@
 </p>
 
 ## 📌 About Me
-- Hi, I'm a 15-year-old developer from Germany 🇩🇪.
+- Hi, I'm a 17-year-old developer from Germany 🇩🇪.
 - I'm passionate about programming and constantly trying to improve my skills.
 - Right now, I'm focused on learning modern web development and building real projects.
 
